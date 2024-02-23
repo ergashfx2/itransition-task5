@@ -1,0 +1,12 @@
+.container {
+    background-color: white;
+    border-radius: 30px;
+}
+
+#errors-value {
+    width: 7% !important;
+}
+
+#seed-number {
+    width: 7% !important;
+}
